@@ -1,5 +1,6 @@
 const getUsers = (req, res) => {
     const unusedVar = 'I am never used';
+    const mayiur= "lsjbif"
 
     res.json(users);
 };
